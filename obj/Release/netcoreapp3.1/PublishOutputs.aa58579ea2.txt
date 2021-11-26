@@ -1,0 +1,7 @@
+D:\Usuarios\Lucho\Desktop\.net\ejercicio2\bin\publish\ejercicio2.exe
+D:\Usuarios\Lucho\Desktop\.net\ejercicio2\bin\publish\ejercicio2.dll
+D:\Usuarios\Lucho\Desktop\.net\ejercicio2\bin\publish\ejercicio2.deps.json
+D:\Usuarios\Lucho\Desktop\.net\ejercicio2\bin\publish\ejercicio2.runtimeconfig.json
+D:\Usuarios\Lucho\Desktop\.net\ejercicio2\bin\publish\ejercicio2.pdb
+D:\Usuarios\Lucho\Desktop\.net\ejercicio2\bin\publish\CsvHelper.dll
+D:\Usuarios\Lucho\Desktop\.net\ejercicio2\bin\publish\Newtonsoft.Json.dll

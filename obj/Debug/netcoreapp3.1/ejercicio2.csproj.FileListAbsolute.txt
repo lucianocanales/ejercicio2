@@ -1,0 +1,17 @@
+D:\Usuarios\Lucho\Desktop\.net\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.csproj.AssemblyReference.cache
+D:\Usuarios\Lucho\Desktop\.net\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Lucho\Desktop\.net\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.AssemblyInfoInputs.cache
+D:\Usuarios\Lucho\Desktop\.net\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.AssemblyInfo.cs
+D:\Usuarios\Lucho\Desktop\.net\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.csproj.CoreCompileInputs.cache
+D:\Usuarios\Lucho\Desktop\.net\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.exe
+D:\Usuarios\Lucho\Desktop\.net\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.deps.json
+D:\Usuarios\Lucho\Desktop\.net\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.runtimeconfig.json
+D:\Usuarios\Lucho\Desktop\.net\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.runtimeconfig.dev.json
+D:\Usuarios\Lucho\Desktop\.net\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.dll
+D:\Usuarios\Lucho\Desktop\.net\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.pdb
+D:\Usuarios\Lucho\Desktop\.net\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.dll
+D:\Usuarios\Lucho\Desktop\.net\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.pdb
+D:\Usuarios\Lucho\Desktop\.net\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.genruntimeconfig.cache
+D:\Usuarios\Lucho\Desktop\.net\ejercicio2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Usuarios\Lucho\Desktop\.net\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.csproj.CopyComplete
+D:\Usuarios\Lucho\Desktop\.net\ejercicio2\bin\Debug\netcoreapp3.1\CsvHelper.dll
